@@ -1,0 +1,6 @@
+name: invoicex-git-local
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - pandas
